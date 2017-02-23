@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Account Preference">
+        <PreferenceScreen
+            android:title="Photo, Name, Email etc"
+            android:key="user_profile"
+            android:summary="User Profile">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:targetPackage="com.example.lichenghui.chenghui_li_myruns4"
+                android:targetClass="com.example.lichenghui.chenghui_li_myruns4.UserProfileActivity" />
+        </PreferenceScreen>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:title="Privacy Setting"
+            android:key="privacy_setting"
+            android:summary="Posting your records anonymously" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Additional Settings">
+
+        <ListPreference
+            android:defaultValue="1"
+            android:title="Unit Preference"
+            android:key="unit_preference"
+            android:entries="@array/entries_list"
+            android:entryValues="@array/value_list"
+            android:summary="Select the units" />
+        <EditTextPreference
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Comments"
+            android:key="comments"
+            android:summary="Please enter your comments"
+            android:defaultValue="Your comments" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Misc.">
+        <PreferenceScreen
+            android:title="Web page"
+            android:key="web_screen"
+            android:summary="http://web.cs.dartmouth.edu/">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://web.cs.dartmouth.edu/" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+</PreferenceScreen>

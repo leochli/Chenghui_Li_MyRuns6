@@ -1,0 +1,61 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lichenghui.chenghui_li_myruns6.StartFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Input Type" />
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/input_spinner"
+            android:entries="@+array/input_type"
+            />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp" />
+
+        <TextView
+            android:text="Activity Type"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/activity_spinner"
+            android:entries="@+array/activity_type">
+        </Spinner>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+
+        <Button
+            android:text="Start"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/start_btn"
+            android:onClick="onStartClick"/>
+
+        <Button
+            android:text="sync"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sync_btn"
+            android:onClick="onSyncClick"/>
+    </LinearLayout>
+
+</FrameLayout>

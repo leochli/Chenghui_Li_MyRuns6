@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/res/raw/gtm_analytics"
+    }
+]
