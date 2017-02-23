@@ -1,15 +1,7 @@
 [
     {
-        "merged": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
-        "source": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
-    },
-    {
         "merged": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
         "source": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
-    },
-    {
-        "merged": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
-        "source": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
     },
     {
         "merged": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
@@ -18,14 +10,6 @@
     {
         "merged": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
         "source": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
-    },
-    {
-        "merged": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
-        "source": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
-    },
-    {
-        "merged": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
-        "source": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
     },
     {
         "merged": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",

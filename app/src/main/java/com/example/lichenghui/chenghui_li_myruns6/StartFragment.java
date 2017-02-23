@@ -172,7 +172,6 @@ public class StartFragment extends Fragment implements View.OnClickListener{
                     mObject.put(FIELD_NAME_CLIMB,Double.toString(entry.climbsum)+"Miles");
                     mObject.put(FIELD_NAME_HEARTRATE, Integer.toString(entry.HeartRate));
                     mObject.put(FIELD_NAME_COMMENT, entry.Comment);
-                    Log.d("Testing", "Inner object: " + mObject.toString());
                     // Add to json array
                     uploadArray.put(mObject);
                 }

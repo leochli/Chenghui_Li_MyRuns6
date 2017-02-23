@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-                    "file": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/src/main/res/values-w820dp/dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 291,
-                        "endColumn": 57,
-                        "endOffset": 344
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
