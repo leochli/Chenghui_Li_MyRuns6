@@ -5,40 +5,33 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="191037239008069"
-    token="5697155349567516514"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="192295855844514"
+    token="1985414506554611163"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="796" />
+        duration="2189" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="55" />
+        duration="1663" />
     <task
         name="verifier"
-        duration="2" />
+        duration="240" />
 
     <artifact
-        location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-        type="DEX" />
+        location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="188569801357859"
+        timestamp="192295855844514"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/outputs/apk/app-debug.apk"
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="191037239008069"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

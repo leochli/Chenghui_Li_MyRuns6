@@ -27,8 +27,7 @@ import static android.Manifest.permission.ACCESS_FINE_LOCATION;
 
 public class MainActivity extends AppCompatActivity {
 
-//    public static String SERVER_ADDR = "https://strong-summer-159600.appspot.com";
-    public static String SERVER_ADDR = "http://localhost:8889";
+    public static String SERVER_ADDR = "https://strong-summer-159600.appspot.com";
     public static String GCMid = null;
 
     private TabLayout tabLayout;

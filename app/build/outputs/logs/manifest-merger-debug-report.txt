@@ -83,7 +83,7 @@ ADDED from /Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/CO
 		ADDED from /Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/src/main/AndroidManifest.xml:27:9-44
 	android:name
 		ADDED from /Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/src/main/AndroidManifest.xml:26:9-93
-uses-permission#com.example.lichenghui.chenghui_li_myruns5.gcm.permission.C2D_MESSAGE
+uses-permission#com.example.lichenghui.chenghui_li_myruns6.gcm.permission.C2D_MESSAGE
 ADDED from /Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/src/main/AndroidManifest.xml:29:5-109
 	android:name
 		ADDED from /Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/src/main/AndroidManifest.xml:29:22-106
@@ -225,13 +225,13 @@ ADDED from /Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/CO
 		ADDED from /Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/src/main/AndroidManifest.xml:78:13-73
 	android:name
 		ADDED from /Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/src/main/AndroidManifest.xml:77:13-91
-intent-filter#com.example.lichenghui.chenghui_li_myruns5+com.google.android.c2dm.intent.RECEIVE
+intent-filter#com.example.lichenghui.chenghui_li_myruns6+com.google.android.c2dm.intent.RECEIVE
 ADDED from /Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/src/main/AndroidManifest.xml:79:13-82:29
 action#com.google.android.c2dm.intent.RECEIVE
 ADDED from /Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/src/main/AndroidManifest.xml:80:17-81
 	android:name
 		ADDED from /Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/src/main/AndroidManifest.xml:80:25-78
-category#com.example.lichenghui.chenghui_li_myruns5
+category#com.example.lichenghui.chenghui_li_myruns6
 ADDED from /Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/src/main/AndroidManifest.xml:81:17-87
 	android:name
 		ADDED from /Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/src/main/AndroidManifest.xml:81:27-84

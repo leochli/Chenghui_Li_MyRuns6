@@ -1,7 +1,7 @@
-#Thu Feb 23 15:15:47 EST 2017
-base.0=/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6c3e7bf194ac396439ecbca058bebcd255730709
+#Thu Feb 23 16:17:14 EST 2017
+base.0=/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_efc49e8f01db079cc600abce8404aa29837ffcb8
 renamed.1=classes2.dex
 renamed.0=classes.dex
-file.1=/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_df28bd90f8d6a7b703938279d9477cca60918c52/classes.dex
-base.1=/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_df28bd90f8d6a7b703938279d9477cca60918c52
-file.0=/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns5/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6c3e7bf194ac396439ecbca058bebcd255730709/classes.dex
+file.1=/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c440699ac857c5456d6909635e3945c650a95786/classes.dex
+base.1=/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c440699ac857c5456d6909635e3945c650a95786
+file.0=/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_efc49e8f01db079cc600abce8404aa29837ffcb8/classes.dex

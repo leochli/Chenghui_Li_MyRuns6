@@ -32,7 +32,7 @@
         android:name="com.example.lichenghui.chenghui_li_myruns6.gcm.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.example.lichenghui.chenghui_li_myruns5.gcm.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.example.lichenghui.chenghui_li_myruns6.gcm.permission.C2D_MESSAGE" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <permission
@@ -96,7 +96,7 @@
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
 
-                <category android:name="com.example.lichenghui.chenghui_li_myruns5" />
+                <category android:name="com.example.lichenghui.chenghui_li_myruns6" />
             </intent-filter>
         </receiver>
 

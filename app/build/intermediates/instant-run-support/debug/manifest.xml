@@ -29,10 +29,10 @@
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
     <permission
-        android:name="com.example.lichenghui.chenghui_li_myruns5.gcm.permission.C2D_MESSAGE"
+        android:name="com.example.lichenghui.chenghui_li_myruns6.gcm.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.example.lichenghui.chenghui_li_myruns5.gcm.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.example.lichenghui.chenghui_li_myruns6.gcm.permission.C2D_MESSAGE" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <permission
@@ -52,22 +52,22 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.lichenghui.chenghui_li_myruns5.MainActivity" >
+        <activity android:name="com.example.lichenghui.chenghui_li_myruns6.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.lichenghui.chenghui_li_myruns5.ManualInputActivity" />
-        <activity android:name="com.example.lichenghui.chenghui_li_myruns5.UserProfileActivity" >
+        <activity android:name="com.example.lichenghui.chenghui_li_myruns6.ManualInputActivity" />
+        <activity android:name="com.example.lichenghui.chenghui_li_myruns6.UserProfileActivity" >
             <action android:name="android.intent.action.VIEW" />
 
             <categroy android:name="android.intent.action.DEFAULT" />
         </activity>
         <activity android:name="com.soundcloud.android.crop.CropImageActivity" />
         <activity
-            android:name="com.example.lichenghui.chenghui_li_myruns5.DisplayEntryActivity"
+            android:name="com.example.lichenghui.chenghui_li_myruns6.DisplayEntryActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
@@ -82,26 +82,26 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name="com.example.lichenghui.chenghui_li_myruns5.MapsActivity"
+            android:name="com.example.lichenghui.chenghui_li_myruns6.MapsActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_maps"
             android:launchMode="singleTask"
             android:theme="@style/AppTheme.NoActionBar" />
 
-        <service android:name="com.example.lichenghui.chenghui_li_myruns5.TrackingService" />
-        <service android:name="com.example.lichenghui.chenghui_li_myruns5.NotifyService" />
+        <service android:name="com.example.lichenghui.chenghui_li_myruns6.TrackingService" />
+        <service android:name="com.example.lichenghui.chenghui_li_myruns6.NotifyService" />
 
         <receiver
-            android:name="com.example.lichenghui.chenghui_li_myruns5.GcmBroadcastReceiver"
+            android:name="com.example.lichenghui.chenghui_li_myruns6.GcmBroadcastReceiver"
             android:permission="com.google.android.c2dm.permission.SEND" >
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
 
-                <category android:name="com.example.lichenghui.chenghui_li_myruns5" />
+                <category android:name="com.example.lichenghui.chenghui_li_myruns6" />
             </intent-filter>
         </receiver>
 
-        <service android:name="com.example.lichenghui.chenghui_li_myruns5.GcmIntentService" />
+        <service android:name="com.example.lichenghui.chenghui_li_myruns6.GcmIntentService" />
 
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity

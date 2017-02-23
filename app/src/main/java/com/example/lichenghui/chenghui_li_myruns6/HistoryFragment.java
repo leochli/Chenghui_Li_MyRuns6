@@ -95,6 +95,7 @@ public class HistoryFragment extends Fragment {
         HisDatasource.open();
         IntentFilter mFilter = new IntentFilter(UPDATE_FROM_CLOUD);
         LocalBroadcastManager.getInstance(getContext()).registerReceiver(historyReiver, mFilter);
+        mHistoryAdapter.notifyDataSetChanged();
         super.onResume();
     }
 
@@ -102,6 +103,7 @@ public class HistoryFragment extends Fragment {
     public void onPause() {
         HisDatasource.close();
         LocalBroadcastManager.getInstance(getContext()).unregisterReceiver(historyReiver);
+        mHistoryAdapter.notifyDataSetChanged();
         super.onPause();
     }
 
