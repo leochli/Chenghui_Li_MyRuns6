@@ -40,7 +40,7 @@ public class GcmIntentService extends IntentService {
                 DataSource mDb = new DataSource(this);
                 mDb.open();
                 mDb.DelteEntrybyID(rowid);
-                //To update the history UI by localbroadcast
+                //To update the history UI by a localbroadcast
                 Intent onCouldUpdated = new Intent(HistoryFragment.UPDATE_FROM_CLOUD);
                 LocalBroadcastManager.getInstance(this).sendBroadcast(onCouldUpdated);
                 mDb.close();

@@ -27,6 +27,7 @@ import static android.Manifest.permission.ACCESS_FINE_LOCATION;
 
 public class MainActivity extends AppCompatActivity {
 
+//    public static String SERVER_ADDR = "http://localhost:8889";
     public static String SERVER_ADDR = "https://strong-summer-159600.appspot.com";
     public static String GCMid = null;
 
@@ -82,7 +83,6 @@ public class MainActivity extends AppCompatActivity {
         private GoogleCloudMessaging gcm;
         private Context context;
 
-        // TODO: change to your own sender ID to Google Developers Console project number, as per instructions above
         private static final String SENDER_ID = "622696655656";
 
         public GcmRegistrationAsyncTask(Context context) {
@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
                 String regId = gcm.register(SENDER_ID);
 
                 GCMid = regId;
-                message = "Device registered, registration ID=" + regId;
+                message = "Device registered!";
                 // send the registration ID to server over HTTP,
                 regService.register(regId).execute();
 

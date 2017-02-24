@@ -25,7 +25,7 @@ public class PostDataServlet extends HttpServlet {
             throws IOException, ServletException {
 
         //Get the data from request
-        String jArrayString = req.getParameter("result");
+        String resultString = req.getParameter("result");
         String regID = req.getParameter("regId");
         ArrayList<mEntry> result = new ArrayList<>();
 
@@ -37,7 +37,7 @@ public class PostDataServlet extends HttpServlet {
         // Get JSON array
         JSONArray dataArray = null;
         try {
-            dataArray = new JSONArray(jArrayString);
+            dataArray = new JSONArray(resultString);
         } catch (JSONException e) {
             e.printStackTrace();
         }

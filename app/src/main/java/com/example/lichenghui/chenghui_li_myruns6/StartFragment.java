@@ -169,7 +169,7 @@ public class StartFragment extends Fragment implements View.OnClickListener{
                     mObject.put(FIELD_NAME_DISTANCE,String.format("%.2f",entry.Distance)+"Miles");
                     mObject.put(FIELD_NAME_AVGSPEED,String.format("%.2f",entry.avgspeed)+"Miles");
                     mObject.put(FIELD_NAME_CALORIES,Integer.toString(entry.Calories));
-                    mObject.put(FIELD_NAME_CLIMB,Double.toString(entry.climbsum)+"Miles");
+                    mObject.put(FIELD_NAME_CLIMB,String.format("%.2f",entry.climbsum)+"Miles");
                     mObject.put(FIELD_NAME_HEARTRATE, Integer.toString(entry.HeartRate));
                     mObject.put(FIELD_NAME_COMMENT, entry.Comment);
                     // Add to json array

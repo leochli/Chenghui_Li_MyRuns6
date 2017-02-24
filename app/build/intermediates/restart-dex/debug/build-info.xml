@@ -5,33 +5,304 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="192295855844514"
+    timestamp="201710485189745"
     token="1985414506554611163"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="2189" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1663" />
+        duration="0" />
     <task
         name="verifier"
-        duration="240" />
-
-    <artifact
-        location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        duration="0" />
 
     <build
-        timestamp="192295855844514"
+        timestamp="199458106359581"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
+    <build
+        timestamp="200654270226561"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_fdb3d28931bddfb8a94e6e6436dcc542fb824ec0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c440699ac857c5456d6909635e3945c650a95786/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_0ea7addbbbdbb17e6ab20e55dcf71a6bef1e5195/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_6cd52ff1339d36ea88f1e7e0a8aab97def615032/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_3a43c285397acfaa904f48104091bacf686c5dca/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_a63b4ed5034823112a083ca9a9afa84823f7df29/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_4cb85a67f6ab9dde76bc74ab3205a72d39a2bfdf/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_bfeab08699fb0a5f088d4e92b9aa3c5393f78e22/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_c33d84bd1083fbcfe63d968450e5500120aa4164/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-android-1.20.0_48cd3dffdb10d4622a70b2f7466d80f1f8ba4724/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_734492c0400921ff138a17d7f0bfd94d3a7a08cf/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.1.1_b6445efacac10cd80d2a0053aed43dc9b334eb3a/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_03a8d7512e1a88d29536b16ca0a301fa387f53ae/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_9487159cb1667df04a2fc14800b8202b4385f392/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_e9fe81f7b74f994baa642c74fe1b5aa8dcdd8cbb/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_1d1ce8545ba2211bf01f320b8c0b59ce0c9c4c2e/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_9bf0097bd6696e07ccd991a2ad3026046ac0b53a/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_ac80a45bd77b3a519f9b069a035e92a8e3e2d6f2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_976ce4f984477209ae55896ade797f1c8ddf5336/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_050b3893c577291602c4c4bac7cd88615e3545da/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_dd8dae3c34970299f58d12c67eb5bb57df07e78a/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_d50e3a94409dc5fb475339f096bba3fece4bdae1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-2.0.1_ef8692bf7dca2d33456c6fff7a244ddb7ea67dfe/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_4fbfb7c5de1de0da479388ffbbdf0f0d185800e7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_31bb3e502aa1ea06d3fe52c54866177c5a33f895/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_94e8e4b424f874a7403fd9aacb50d3a3d4c5adc8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_cbca510736c214e081b18e4642d7cc74c0935379/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.3_d84cd3de1db7d516066e5baaa3da06e48a5138d8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_10fbe4ae79123bf567447939101a55927356651a/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.20.0_ce87c9fdd85253d8a56c0398b94ddc0c5cdce2b4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_cce0d5d9fa8c286d6c1dc70e98404ca96a034413/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-1.20.0_c1b531abc7f752672a34b6539fa8d6bd59affbc8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_13f48e8fcc8c0dad10240749a22624363cc4004a/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_fcdda105622597096b31711cad2483e41d489526/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_0279f6a59baa3113cd9f1056853984a3b6afa50f/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_b31635039a817ca752a557b346f5a17e6f7c8110/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_85e9cac5a39201abcac77a561b8bf7c935685f1e/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_1e41c159557b51745676ca38752b6476993a7de9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_d4d6b4463314fb634bde31542c867e440ff10cd9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-android-1.20.0_f46168f63c18ca8103a5c6a73f7637ff106f4148/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_761701c3be07f21a6ff68240494d6a0b0f4278d2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_d3989ca1b3b11fd73c0c73b3abf0e43a415bf835/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_1bcf38bb287ea48c7072ad175ed21e5aa56ad324/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_99d1c8c994420113895c9e53c31bde2e17e5e576/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_82798c7b3bbf9214b48ef9999b10ae45027e8612/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_25b372d17a0f3c59c7a7de70a0c1452c5071f18e/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_9d3c8dc26faa7b0d30579f30411ce9c10c83cb47/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_c18af403e0870b23dd3ca0819544969e2fdafa13/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_afbd885df45c9e94ce51a724179f2032e410cf38/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.1_3fd0f8b72e2598e565cff6fbce1e854276bb14e8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_1c9645cd1b9f337e28827d70bfe19847a8c1aa5f/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_44030534c3f581be05733084c08df71ed677b812/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_7e98f672756fefbb1c9bb31e581c40daf055df68/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_472beb2894ebe67d05e0b47958613ee9a0aa8a4a/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_138afeed9739ad2c891def9011821a26aab92971/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_5a447a9db20c77bc71fba60639843066f3c37e81/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_13db5e9a8c19dda839a34e580cffb82d25e2247e/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_f669cdc38d506177c19f233b0b076709f7eddffa/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_30ba88ef8912ec381dd6d33fe4b2684a0c4c2b9a/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_cd84694d3c2614122a8459e1444b8e8654bc43e8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.soundcloud.android-android-crop-1.0.1_c47f9c34b066f610617aeee9eba6ab93c928bd74/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_98f30d66d57379d065cc7206375e08145f92fc31/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.1_1f5ade191e91580881b48644003d2fa4fe1fedfb/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_f9faf93c4dd80ca1b99bc23973705aa5d776b4fe/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_455d6418b6feb475ed99ea62b83335ad80d43dbd/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_1bea5dda68b736f774a8b0719e9080a94eae4db0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_179e4048a3fbc98b84c1141f567614068c0eda73/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_56993588e8ec5ac610fea7508929ce9e1be39e20/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-1.20.0_8ce89a15e25f962b4df67d74144e7a851033c09d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_831a52d97c2489fb94283edf66ad7af734396781/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_6160ee9168f6a89fc11195f0a0a89243f7a81009/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_efc49e8f01db079cc600abce8404aa29837ffcb8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_9dc98006bed31ab69466593ca725d7dc6119ef46/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson2-1.20.0_596f963d0088a35ff21332d52c34f43f79ced13d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_a761a2ae5e897b95b278329a30695f683e1bd475/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_d36b358ce9bc035f34c79fadf77c2c14d8becb7d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-jdk5-13.0_11daff791d10ba5c9605a7cda0ca071f9fde7f7c/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_50124c6cd14a6103db440021423abfb4c5937b09/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="201585294200018"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/lichenghui/Documents/2016-2017 Exchange/Dartmouth 17 Winter/COSC 65 Smartphone Programming/Chenghui_Li_MyRuns6/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="201710485189745"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
